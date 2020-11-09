@@ -1,0 +1,13 @@
+/*
+* @see https://stackoverflow.com/questions/6510905/using-css-in-javafx-2-0 - how to link css
+* @see https://stackoverflow.com/questions/42894637/javafx-css-transparent-textarea-with-solid-text - transparent
+*/
+.label {
+    -fx-background-color: rgba(217, 240, 6, 0.4);
+
+}
+.pane {
+    -fx-background-color: rgba(230, 210, 210, 0.5);
+
+}
+
